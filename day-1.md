@@ -1,5 +1,7 @@
 # Daily Learning
 ## Morning planning
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" aligh="right">
 - [ ] Check out the [github blog](https://github.biog/) for topic ideas.
 - [ ] Learn about [Github Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first biog post into an actual webpage.
